@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Welcometo betterfetch"
+echo "Welcome to betterfetch"
 java -jar [yourPath/betterFetch.jar]
