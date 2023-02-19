@@ -36,6 +36,7 @@ ________________________________________________________________
 <br>
 <br>
 <br>
+
 ###### If you want to access betterfetch through the jar file locally 
 1. `java -jar [path_to your betterfetch.jar]`
 ________________________________________________________________
